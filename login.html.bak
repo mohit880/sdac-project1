@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+   <center><img src="white nike logo.jpg" width="200" height="100" border="0" alt=""></center>
+  <hr>
+ <center><a href="index.html">Home</a>
+ <a href="info.html">About Us</a>
+ <a href="contact.html">contact us</a>
+ <a href="Query.html">Query</a>
+ <a href="login.html">login</a></center>
+
+ <hr>
+ 
+ <form method="post" action="">
+	<center><table>
+	<tr>
+		<td>USERNAME</td>
+		<td><input type="text" name=""></td>
+	</tr>
+	<tr>
+		<td>PASSWORD</td>
+		<td><input type="password" name=""></td>
+	</tr></center>
+	
+	</table></center>
+	<p><center><strong>© 2023 Nike, Inc. All Rights Reserved</strong></center></p>
+ </form>
+ </body>
+</html>

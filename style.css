@@ -1,0 +1,89 @@
+#log1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#log3 {
+  margin-top: 20px;
+}
+
+#f0 {
+  color: black;
+}
+
+#f1 {
+  color: black;
+}
+#f2 {
+  color: black;
+}
+#f3 {
+  color: black;
+}
+#f4 {
+  color: black;
+}
+
+#f0:hover {
+  color: blue;
+}
+
+#f1:hover {
+  color: darkblue;
+}
+
+#f2:hover {
+  color: darkblue;
+}
+
+#f3:hover {
+  color: darkblue;
+}
+
+#f4:hover {
+  color: darkblue;
+}
+
+p.red {
+  color: brown;
+}
+
+h2.red {
+  color: brown;
+}
+
+h2.blu {
+  color: blue;
+}
+
+#log3 {
+  border-radius: 10%;
+}
+
+#log3:hover {
+  background-color: black;
+  color: antiquewhite;
+}
+
+#log6 {
+  width: 50%;
+  height: 40%;
+  border-radius: 10px;
+}
+
+.fff {
+  padding: 5px;
+  margin: 5px 20px 5px 20px;
+  text-decoration: transparent;
+}
+
+.ggg {
+  padding: 5px;
+  margin: 5px 20px 5px 20px;
+  text-decoration: transparent;
+}
+
+a {
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}

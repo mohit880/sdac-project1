@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><img src="white nike logo.jpg" width="200" height="100" border="0" alt=""></center>
+   <hr>
+ <center><a href="index.html">Home</a>
+ <a href="info.html">About Us</a>
+ <a href="contact.html">contact us</a>
+ <a href="Query.html">Query</a></center>
+ <hr>
+  <br>
+  <br>
+ <pre><center><strong>NIKE, Inc. is a team comprised of the Nike,Jordan and 
+ Converse brands driven by a shared purpose to leave an 
+ enduring impact.</strong></center></pre>
+ <center><audio controls>
+	<source src="" type="audio/mpeg">
+ </audio></center>
+ <br>
+ <pre>Nike, Inc. is an American multinational association that is involved in the design, development, manufacturing and worldwide marketing and sales of apparel, footwear, accessories, equipment and services.</pre>
+
+ 
+
+ <img src="../../Downloads/nike-inc-swoosh-jordan-converse-logos.png" width="1600" height="600" border="0" alt="">
+ <br>
+ <br>
+ <p><center><strong>© 2023 Nike, Inc. All Rights Reserved</strong></center></p>
+ </body>
+</html>
